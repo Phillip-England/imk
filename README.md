@@ -5,7 +5,7 @@ I upload all my receipts to Google Drive, being sure to follow naming convention
 
 ## Installation
 ```bash
-go install github.com/phillip-england/imk
+go install github.com/phillip-england/imk@latest
 ```
 
 ## Usage
